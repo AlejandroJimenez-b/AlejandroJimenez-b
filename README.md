@@ -39,7 +39,7 @@ Actualmente evolucionando hacia un perfil de <strong>Desarrollador Full Stack</s
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,js,ts,angular,nodejs,html,css,git,github,ubuntu,mysql,npm,discord,devto,ai" />
+  <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,js,jquery,ts,angular,nodejs,html,css,git,github,ubuntu,mysql,npm,discord,devto,ai" />
 
 </div>
 
