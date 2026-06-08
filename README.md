@@ -19,7 +19,7 @@
 
 ---
 
-<h2>🧠 Sobre mí</h2>
+<h2>Sobre mí</h2>
 
 <p>
 Desarrollador apasionado enfocado en sistemas backend, procesamiento de datos y herramientas de automatización.
@@ -27,25 +27,25 @@ Actualmente evolucionando hacia un perfil de <strong>Desarrollador Full Stack</s
 </p>
 
 <ul>
-  <li>💻 Orientado a Backend (Python, procesamiento de datos)</li>
-  <li>🌐 Aprendiendo desarrollo Full Stack</li>
-  <li>⚙️ Automatización y resolución de problemas reales</li>
-  <li>📈 Mentalidad de mejora continua</li>
+  <li>Orientado a Backend (Python, procesamiento de datos)</li>
+  <li>Aprendiendo desarrollo Full Stack</li>
+  <li>Automatización y resolución de problemas reales</li>
+  <li>Mentalidad de mejora continua</li>
 </ul>
 
 ---
 
-<h2>⚒️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,angular,nodejs,html,css,git,github,ubuntu,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,angular,nodejs,html,css,git,github,ubuntu,mysql,claude,chatgpt" />
 
 </div>
 
 ---
 
-<h2>🚀 Proyectos destacados</h2>
+<h2>Proyectos destacados(entre otros)</h2>
 
 <table>
 <tr>
@@ -67,7 +67,7 @@ Diseñada para flujos de trabajo empresariales reales.
 
 <td width="50%">
 
-<h3>🌐 Aplicación Web Full Stack (En desarrollo)</h3>
+<h3> Aplicación Web Full Stack</h3>
 <p>
 Red Social integral con integración de backend(Laravel) + frontend.
 Construida para simular entornos reales de producción.
@@ -76,7 +76,7 @@ Construida para simular entornos reales de producción.
 <ul>
   <li>✔ Backend API</li>
   <li>✔ Integración con base de datos</li>
-  <li>✔ UI (proximamente)</li>
+  <li>✔ UI</li>
 </ul>
 
 </td>
@@ -85,7 +85,7 @@ Construida para simular entornos reales de producción.
 
 ---
 
-<h2>📈 Actividad</h2>
+<h2> Actividad</h2>
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Construida para simular entornos reales de producción.
 
 ---
 
-<h2>📫 Contacto</h2>
+<h2>Contacto</h2>
 
 <p align="center">
 
@@ -111,4 +111,4 @@ Construida para simular entornos reales de producción.
 
 ---
 
-<h2 align="center">⚡ “Codifica. Automatiza. Mejora.” ⚡</h2>
+<h2 align="center">“Constancia += Interes == Desarrollo.”</h2>
