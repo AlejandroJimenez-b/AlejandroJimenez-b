@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">🚀 JimberStack</h1>
+<h1 align="center">JimberStack</h1>
 
 <h3 align="center">Full Stack Developer | Entusiasta de la Automatización</h3>
 
