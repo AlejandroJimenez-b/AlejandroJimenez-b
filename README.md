@@ -39,7 +39,7 @@ Actualmente evolucionando hacia un perfil de <strong>Desarrollador Full Stack</s
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,angular,nodejs,html,css,git,github,ubuntu,mysql,claude,chatgpt" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,ts,angular,nodejs,html,css,git,github,ubuntu,mysql,antrophic,openai" />
 
 </div>
 
@@ -51,7 +51,7 @@ Actualmente evolucionando hacia un perfil de <strong>Desarrollador Full Stack</s
 <tr>
 <td width="50%">
 
-<h3>📊 Herramienta ETL de Automatización para Excel</h3>
+<h3>Herramienta ETL de Automatización para Excel</h3>
 <p>
 Automatiza la validación, transformación y detección de errores en datos de Excel.
 Diseñada para flujos de trabajo empresariales reales.
