@@ -111,4 +111,4 @@ Construida para simular entornos reales de producción.
 
 ---
 
-<h2 align="center">“Constancia += Interes == Desarrollo.”</h2>
+<h2 align="center">“Aprender += Construir == Desarrollo”</h2>
