@@ -109,6 +109,3 @@ Construida para simular entornos reales de producción.
 
 </p>
 
----
-
-<h2 align="center">“Aprender += Construir == Desarrollo”</h2>
