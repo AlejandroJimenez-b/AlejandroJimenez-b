@@ -35,7 +35,7 @@ Actualmente evolucionando hacia un perfil de <strong>Desarrollador Full Stack</s
 
 ---
 <h2>Certificados</h2>
-<div align="center">
+<div>
   <ul>
     <li>Python Certification FreeCodeCamp -></li>
   </ul>
